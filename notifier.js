@@ -8,6 +8,9 @@ notification = chrome.notifications.create({
   iconUrl: '/images/icon128.png',
   type: 'basic'
 });
+chrome.notifications.onClicked.addListener(function(event){
+  chrome.tabs.update(details.tabId, {active:true,highlighted:true,selected:true});
+});
 }
 
 var filter = {urls: ["https://pollev.com/proxy/api/participant/*visual_settings"]};
