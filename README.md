@@ -28,7 +28,7 @@
 <h1 align="center">PollEV Notifier</h3>
 
   <p align="center">
-  An unofficial chrome extension that adds notifications for PollEV polls.
+  An unofficial chrome extension that adds notifications for <a href="https://pollev.com/"><strong>PollEV</strong></a> polls.
     <br />
     <a href="#getting-started"><strong>Read the installation guide »</strong></a>
     <br />
