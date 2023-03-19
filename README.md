@@ -38,7 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-Introducing "PollEV Notifier," a convenient chrome extension for students who want to be alerted of their polls and never miss an online poll again. With PollEV Notifier, students can receive notifications when their instructors create new online polls, allowing them to skip lectures and participate in polls from anywhere. Whether you're a busy student with a hectic schedule or simply looking for a more convenient way to keep track of your polls, PollEV Notifier is the ideal solution for you.
+Introducing "PollEV Notifier," a convenient chrome extension for students who want to be alerted of their polls and never miss an online poll again. With PollEV Notifier, students can receive notifications when their instructors create new online polls, allowing them to ~~skip lectures~~ and participate in polls from anywhere. Whether you're a busy student with a hectic schedule or simply looking for a more convenient way to keep track of your polls, PollEV Notifier is the ideal solution for you.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
